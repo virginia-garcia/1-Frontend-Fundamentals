@@ -1,3 +1,3 @@
 # Fresquitas
-#El siguiente mini royecto esta constituido por tarjetas de componentes de una tienda de verduleria denominada 'Fresquitas',las cuales son vendidas directo del huerto.
-#Este proyecto forma parte de los 3 proyectos del curso que estoy realizando,esta primera actividad es realiza en html y css.
+The next mini project is 3 cards of fresh produce fresh from the garden for sale.
+It is the first activity of the 3, of the specialty 'fundamentals of frontend', in which it is carried out with html and css.
